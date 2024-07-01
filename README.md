@@ -10,7 +10,8 @@
 - 💬 Ask me about **react,flutter,kotlin**
 
 - 📫 How to reach me **mathewrutto524@gmail.com**
-
+<h3 align="left">Experiences</h3>
+<P>Kenya power and lighting company <br> -Trainee </P>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mathewrutto18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewrutto18" height="30" width="40" /></a>
